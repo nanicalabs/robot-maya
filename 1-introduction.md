@@ -42,3 +42,33 @@ We believe that truly owning a product means you can explore everything about it
  
  Don’t you think so? It comes with artist-designed masks you can download and print to give it more personality.
 
+ # A Few More Words
+Maya is your robot buddy which will help you learn about cool things like coding, electronics, and robotics in a fun and engaging way. Maya gets its name from the Filipino common name for a tree sparrow that is the most familiar bird in urban areas in the Philippines.  Maya is designed and produced with love ❤ by Nanica.io, a small robotics startup whose mission is to develop engaging robots that will inspire the next generation to learn and create things with technology. We thank you for supporting us and hope that we provide you a fun learning experience and many hours of entertainment :). Should you encounter any difficulties, feel free to seek help in our forums or email us directly.
+
+# Stuff Maya Can Do
+- Line Following
+- Obstacle Detection
+- Light and Darkness Seeking
+- Making Music
+- Creative Colorful Patterns of Light
+- Autonomous Roaming
+- Creative Experimentation
+- And Much Much More!
+
+# Maya’s Technical Specifics
+
+- Removable Arduino Compatible  Sparkfun Pro Micro Clone as Maya’s Brain – AtMega32u4 8-bit microprocessor
+- runs on 4 AAA batteries
+- User Button
+- Two infrared reflectance sensor “line sensors”
+- Music Producing Piezo Element
+- Four “Neopixels” – RGB LEDs
+- Ultrasonic Distance  Sensor
+- Two Light Sensors – Phototransistors
+- Expansion Pins
+- Two fast continuous 9 gram Micro Servo Motors
+- Chassis – Lazer-cut acrylic, and readily available screws and nuts.
+
+# Acknowledgement
+Maya is open-source hardware and software, which means all of its designs are made available and can be used, changed, and shared by anyone for any purpose. Maya wouldn’t be possible without others before us sharing their own open-source creations with the world. Maya’s system builds upon open designs (in both software and hardware) by Adafruit and Sparkfun. The programming environment Maya uses was created by the gracious people behind the Arduino project. What we’re saying is that creations like Maya are possible thanks to open sharing of knowledge between creative people. There are many more people we haven’t mentioned that helped in the creation of Maya. We hope you join us to continue in this spirit as you write interesting software and create behaviors for Maya that can be shared and built upon by others. Let’s get started!
+
