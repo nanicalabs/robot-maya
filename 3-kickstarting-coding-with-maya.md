@@ -1,3 +1,25 @@
+# Learn Code the Hard Way
+
+A robot is a machine that can behave autonomously. This means it can think or make decisions on its own and act on those decisions. Maya has a “source code” (which is also be called “program” or “sketch”) which allows Maya to make decisions or ‘think’ for herself. The most awesome part is, you get to learn how to write this source code which is how Maya thinks, behaves, and responds to her environment!
+
+If you don’t know how to code yet, below are thirteen very simple exercises that will help you learn the basics of writing code.  Each exercise can be accomplished in 10 to 30 minutes. It is recommended that you only go through one exercise (at most two) exercises a day to avoid information overload.  If you get stuck at a concept you don’t understand or you don’t understand things the first time right away, don’t worry! You can start going through the other exercises and pick most of it up along the way. 🙂
+
+This series of exercises is inspired by the preface of Zed Shaw’s famous “Learn Code the Hard Way” series.. Sometimes, the hard way is easier.
+
+Bare Minimum
+Blink an LED
+Blink TWO LEDs
+Variables I: Blink LEDs with variables
+- Functions I: Blink LEDs with functions
+- Variables II: Assignments and Maths (with Serial)
+- Comparisons and more Maths (with Serial)
+- For-Loop: Serial & external LED brightness
+- Arrays
+- IF-Statements and Buttons
+- Functions II: Returning values
+- While-Loop I
+- While-Loop with Breaks
+
 # 1. Your Arduino IDE 
 
 (1) Press the Check Mark button to verify your code. This compiles your code and tells you if you’ve written anything the computer can’t understand. Compiling means it converts the code you wrote to machine level code, instructions Maya can understand.         
