@@ -17,6 +17,9 @@ Built to be hackable and easy to learn from, Robot Maya includes publicly availa
 
 While Nanica Labs is no longer in operation, we hope these artifacts continue to inspire educators, makers, and students.
 
+| ![image](./videos/maya-1.GIF) | ![image](./videos/maya-2.GIF) |
+| -------------------------- | -------------------------- |
+| ![image](./website-imgs/website-color-patterns.png)                          | ![image](./artifacts-imgs/masks.jpg)|
 
 # Archive
 - Facebook — https://www.facebook.com/nanicalabs/
